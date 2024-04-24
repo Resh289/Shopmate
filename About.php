@@ -12,20 +12,13 @@ require('Header.php');
     <div>
         <h2>Who We are?</h2>
         <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus sequi natus laboriosam officia optio
-            pariatur consequuntur iure id similique, voluptas, accusantium alias velit a deleniti, excepturi
-            quibusdam commodi recusandae rerum omnis laudantium quas nesciunt nulla. Labore obcaecati eos rerum
-            dolorem illo accusantium voluptatum ab quis minima expedita, odio, nisi inventore! Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Maxime quia quaerat sint error eaque illum impedit! Sed in
-            accusantium veniam.
+            We making your shopping more easier and amazing.
         </p>
         <abbr title="ABOUT">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem at dolorum placeat
-            perspiciatis. Mollitia laboriosam architecto vel amet deleniti magnam.
+Welcome to Shopmate, your one-stop destination for all your shopping needs.We have been committed to providing our customers with an exceptional shopping experience, offering a wide range of high-quality products at competitive prices.
         </abbr>
         <br><br>
-        <marquee bgcolor="#ccc" width="100%" loop="-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo
-            saepe eum voluptate voluptas nihil commodi.
+        <marquee bgcolor="#ccc" width="100%" loop="-1"> our mission is to make shopping convenient, enjoyable, and hassle-free for our customers. We strive to offer an extensive selection of products across various categories, from electronics and fashion to home goods and accessories, catering to diverse tastes and preferences.
         </marquee>
     </div>
 </section>
@@ -57,7 +50,7 @@ require('Header.php');
     <div class="col">
         <img class="logo" width="100px" height="60px" src="./Images/lg.png" alt="Logo">
         <h4>Contact</h4>
-        <p><strong>Address : </strong>266P+952, Anna University, Guindy, Chennai, Tamil Nadu 600025</p>
+        <p><strong>Address : </strong>266P+952,REC, Chennai, Tamil Nadu 600025</p>
         <p><strong>Phone : </strong>044 - 2235 8314 / 044 - 2235 7295</p>
         <p><strong>Hours : </strong>10:00 - 18:00 Mon - Sat</p>
         <div class="follow">
@@ -96,8 +89,8 @@ require('Header.php');
         <img src="./Images/pay/pay.png" alt="">
     </div>
     <div class="end">
-        <p>Copyright &copy; 2022 CEG CSE Students And Designed by <a href="https://ceg.annauniv.edu">CEG
-                Students</a></p>
+        <p>Copyright &copy; RESHMA S CSE And Designed by <a href="https://ceg.annauniv.edu">Reshma S
+                </a></p>
     </div>
 </footer>
 
